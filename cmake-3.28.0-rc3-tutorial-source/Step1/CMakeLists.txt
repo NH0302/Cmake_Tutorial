@@ -15,7 +15,9 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 configure_file(TutorialConfig.h.in TutorialConfig.h)
 # TODO 3: Add an executable called Tutorial to the project
 # Hint: Be sure to specify the source file as tutorial.cxx
-add_executable(Tutorial tutorial.cxx)
 
+#              <exec file name>, <source file name.>
+add_executable(a.out tutorial.cxx)
+                        #target_name
 # TODO 9: Use target_include_directories to include ${PROJECT_BINARY_DIR}
-target_include_directories(Tutorial PUBLIC "${PROJECT_BINARY_DIR}")
+target_include_directories(a.out PUBLIC "${PROJECT_BINARY_DIR}")
