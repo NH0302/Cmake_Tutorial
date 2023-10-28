@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# build
+cmake-3.28.0-rc3-tutorial-source/Step1/build

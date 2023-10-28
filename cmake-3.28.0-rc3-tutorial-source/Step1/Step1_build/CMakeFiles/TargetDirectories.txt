@@ -1,3 +1,0 @@
-/home/namhyung/Cmake_Tutorial/cmake-3.28.0-rc3-tutorial-source/Step1/Step1_build/CMakeFiles/Tutorial.dir
-/home/namhyung/Cmake_Tutorial/cmake-3.28.0-rc3-tutorial-source/Step1/Step1_build/CMakeFiles/edit_cache.dir
-/home/namhyung/Cmake_Tutorial/cmake-3.28.0-rc3-tutorial-source/Step1/Step1_build/CMakeFiles/rebuild_cache.dir
